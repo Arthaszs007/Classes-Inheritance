@@ -1,0 +1,16 @@
+D:\SAIT\S2\C#\A1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.exe
+D:\SAIT\S2\C#\A1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\appliances.txt
+D:\SAIT\S2\C#\A1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.deps.json
+D:\SAIT\S2\C#\A1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.runtimeconfig.json
+D:\SAIT\S2\C#\A1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.dll
+D:\SAIT\S2\C#\A1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.pdb
+D:\SAIT\S2\C#\A1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.csproj.AssemblyReference.cache
+D:\SAIT\S2\C#\A1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.GeneratedMSBuildEditorConfig.editorconfig
+D:\SAIT\S2\C#\A1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfoInputs.cache
+D:\SAIT\S2\C#\A1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfo.cs
+D:\SAIT\S2\C#\A1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.csproj.CoreCompileInputs.cache
+D:\SAIT\S2\C#\A1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.dll
+D:\SAIT\S2\C#\A1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\refint\ModernAppliances.dll
+D:\SAIT\S2\C#\A1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.pdb
+D:\SAIT\S2\C#\A1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.genruntimeconfig.cache
+D:\SAIT\S2\C#\A1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ref\ModernAppliances.dll
