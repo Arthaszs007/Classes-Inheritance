@@ -25,7 +25,7 @@ namespace ModernAppliances
                 {
                     if (item.Quantity > 0)
                     {
-                        Console.WriteLine(item);
+                        Console.WriteLine("Appliance \""+item.ItemNumber+"\" has been checked out.\n");
                     }
                     else
                         Console.WriteLine("The appliance is not available to be checked out.\n");
